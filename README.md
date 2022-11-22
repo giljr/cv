@@ -10,16 +10,19 @@ Welcome!
 ```
 What is Flask?
 
-Flaskis a micro web framework 
+Flask is a micro web framework 
 written in Python. It is 
 classified as a microframework 
 because it does not require 
 particular tools or libraries. 
-It has no database abstraction
-layer, form validation, or any 
-other components where 
-pre-existing third-party libraries 
-provide common functions 
+It has 
+
+no database abstraction layer, 
+form validation, 
+or any other components 
+
+where pre-existing third-party libraries 
+provide common functions. 
 
 (Wikipedia)
 ```
