@@ -2,7 +2,7 @@
 
 Hi, this is all about my curriculum vitae!
   
-it is implemented in Python. I am using Flask as Web Framework.
+it is implemented in Python. I am using [Flask](https://flask.palletsprojects.com/)  as Web Framework.
 
 In other words, here I will present my résumé 4 your judgement. 🤗️
 
@@ -10,7 +10,7 @@ Welcome!
 ```
 What is Flask?
 
-Flask is a micro web framework 
+Flaskis a micro web framework 
 written in Python. It is 
 classified as a microframework 
 because it does not require 
