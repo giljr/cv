@@ -2,7 +2,7 @@
 
 Hi, this is all about my curriculum vitae!
   
-it is implemented in Python. I am using [Flask](https://flask.palletsprojects.com/)  as Web Framework.
+It is implemented in Python. I am using [Flask](https://flask.palletsprojects.com/)  as Web Framework.
 
 In other words, here I will present my résumé 4 your judgement. 🤗️
 
