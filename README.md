@@ -31,7 +31,7 @@ You're more then welcome to visit my Web Pages:
  [Jungletronics](https://medium.com/jungletronics) (Arduino, RPi, PIC, Eagle, Blender, Unity3D, Pixy, and more) 
  [KidsTronics](https://medium.com/kidstronics) (MIT App Inventor, LEGO, Arduino For Kids, and more)
  
-### Projects Flask Series List (from 2021 until now) 🐜️ 🐜️  🐜️
+### Projects Flask Series List (from 2022 until now) 🐜️ 🐜️  🐜️
 
- [#00](cv/) #cvSeries - [**title**](link) — **Breef description**
+ [#00](cv/) #cvSeries - [**Click to run the App now!**](https://marvelously-acrobatic-wolf-thing-dev.wayscript.cloud/) — **[WayScript](https://www.wayscript.com/) is Awesome!**
    
