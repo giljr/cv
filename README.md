@@ -35,4 +35,5 @@ You're more then welcome to visit my Web Pages:
 ### Projects Flask Series List (from 2022 until now) 🐜️ 🐜️  🐜️
 
  [#00](cv/) #cvSeries - [**Click to run the App now!**](https://marvelously-acrobatic-wolf-thing-dev.wayscript.cloud/) — **[WayScript](https://www.wayscript.com/) is Awesome!**
+ 
  [#01](cv/) #cvSeries - [**GitHub hosts My CV \o/**](https://giljr.github.io/cv/) — **Perfect Resume in 5min. Higer interview chances. Try for free!**   
